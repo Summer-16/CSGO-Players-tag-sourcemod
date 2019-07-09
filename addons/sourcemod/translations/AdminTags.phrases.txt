@@ -1,0 +1,27 @@
+"Phrases"		
+{
+	"tags_HADM"
+	{
+		"en"		"[OWNER]"
+	}
+	"tags_CADM"
+	{
+		"en"		"[ChiefAdmin]"
+	}
+	"tags_ADM"
+	{
+		"en"		"[ADMIN]"
+	}
+	"tags_MOD"
+	{
+		"en"		"[MOD]"
+	}
+	"tags_T"
+	{
+		"en"		"Gangsta_"
+	}
+	"tags_CT"
+	{
+		"en"		"Gangsta_"
+	}
+}
